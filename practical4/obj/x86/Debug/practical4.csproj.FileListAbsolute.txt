@@ -1,0 +1,5 @@
+E:\DOTNET\practicals\practical4\bin\Debug\practical4.exe
+E:\DOTNET\practicals\practical4\bin\Debug\practical4.pdb
+E:\DOTNET\practicals\practical4\obj\x86\Debug\practical4.exe
+E:\DOTNET\practicals\practical4\obj\x86\Debug\practical4.pdb
+E:\DOTNET\practicals\practical4\obj\x86\Debug\practical4.csprojResolveAssemblyReference.cache
